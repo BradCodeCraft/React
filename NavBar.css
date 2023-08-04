@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    min-height: 7vh;
+    color: white;
+    background-color: #2A9D8F;
+}
+
+.nav-header {
+    width: 80%;
+    max-width: 80%;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: space-between;
+    border-left: 2px solid white;
+    padding-top: 5px;
+}
+
+h3 {
+    margin: 10px 15px;
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: white;
+}

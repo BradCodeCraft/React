@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:ital@0;1&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "REM";
+    background-color: #264653;
+}
